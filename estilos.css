@@ -1,0 +1,322 @@
+.caset{
+    background-image: url(imagenes/caset2.jpg);
+    background-repeat: none;
+    background-size: 50% 50%;
+    background-attachment: fixed;
+    
+}
+
+
+.fondo1{
+height: 350px;
+margin-top: 140px;
+margin-left: 460px;
+}
+
+
+.texto{
+    margin-right: 30px;
+}
+
+.numero{
+    margin-left: 409px;
+    border-color: rgb(206, 71, 71);
+    width: 80px;
+    text-align: center;
+}
+
+
+.numero2{
+  border-radius: 4px;
+    width: 580px;
+    text-align: center;
+}
+.Titulo {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 90px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    opacity: 0.8;
+    margin-top: 20%;
+    
+}
+
+.menu5{
+    margin: 0;
+     padding: 0;
+     color: black;
+     text-align: center;
+     font-size: 30px;
+     margin-top: 130px;
+
+}
+
+.menu {
+     margin: 0;
+     padding: 0;
+     color: black;
+     text-align: center;
+     font-size: 40px;
+     margin-top: 10%;
+     margin-right: 250px;
+}
+
+.menu2{
+    margin: 0;
+     padding: 0;
+     color: black;
+     text-align: center;
+     font-size: 30px;
+     margin-top: 40%;
+
+}
+
+header{
+    display: flex;
+    height: 90px;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 100px;
+    margin-top: 30px;
+    border: solid;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+}
+
+.logo img{
+    height: 100px;
+    margin-left: 300px;
+    margin-top: 100px;
+}
+
+nav a {
+    font-weight: 600;
+    padding-right: 60px;
+}
+
+nav a:hover{
+    color: rgb(255, 0, 0);
+    text-decoration: rgb(255, 0, 0);
+    font-weight: bold;
+}
+
+
+.botones:hover{
+    height: 55px;
+    width: auto;
+}
+.fondo {
+    background-image: none;
+}
+
+.disco1 {
+    height: 240px;
+    margin-left: 300px;
+    display: flex;
+    margin-top: 30px;
+}
+
+
+
+
+.merch{
+    height: 300px;
+    margin-left: 300px;
+    display: flex;
+    margin-top: 30px;
+
+}
+
+.nombre {
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 310px;
+    margin-top: 30px;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.nombre2{
+    font-weight: bold;
+    font-size: 35px;
+    text-align: center;
+    margin-top: 10px;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.escuchar{
+    margin-left: 320px;
+    margin-top: 15px;
+}
+
+.boton{
+    margin-left: 400px;
+    margin-top: 15px;
+}
+
+.entero {
+    display: flex;
+}
+.entero2 {
+    display: flex;
+}
+
+.subtitulo{
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 350px;
+    margin-top: 10px;
+    font-family: 'Fjalla One', sans-serif;
+    
+}
+
+
+.disco1:hover{
+    height: 250px;
+}
+
+
+.merch:hover{
+    height: 310px;
+
+}
+.escuchar2{
+    margin-left: 380px;
+    margin-top: 15px;
+}
+
+.escuchar3{
+    margin-left: 680px;
+    margin-top: 15px;
+    height: 50px;
+}
+
+.link{
+    color: white;
+    text-decoration: none;
+}
+
+.videos {
+    height: 450px;
+    width: 100%;
+    margin-top: 50px;
+   
+}
+
+.flecha{
+    margin-top: 250px;
+    height: 50px;
+    margin-left: 80px;
+    border-radius: 30px;
+
+}
+
+.flecha2{
+    margin-top: 250px;
+    height: 50px;
+    margin-right: 80px;
+    border-radius: 30px;
+}
+
+.descripcion2{
+    text-align: center;
+    font-family: 'Inter Tight', sans-serif;
+    margin-left: 250px;
+    font-size: 20px;
+}
+
+.descripcion3{
+    text-align: center;
+    font-family: 'Inter Tight', sans-serif;
+    margin-left: 5px;
+    font-size: 20px;
+}
+
+.mini {
+    height: 140px;
+    margin-left: 350px;
+    margin-top: 15px;
+}
+
+.formulario {
+    margin-left: 20%;
+    font-family: 'Inter Tight', sans-serif;
+    margin-top: 40px;
+    font-size: 20px;
+}
+
+.compra{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 60px;
+    text-align: center;
+    color: darkred;
+    margin-top: 20px;
+}
+
+.gral {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 400px;
+    margin-left: 400px;
+    margin-top: 40px;
+    font-size: 20px;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.ticket{
+    background-color: darkred;
+    width: 100px;
+    height: 35px;
+    color: white;
+    text-align: center;
+}
+
+.linea{
+    width: 45%;
+    margin-left: 410px;
+    margin-top: 20px;
+}
+
+.texto1{
+    text-decoration: none;
+    color: white;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.magic{
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 350px;
+    margin-top: 30px;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.magic2{
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 380px;
+    margin-top: 10px;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+
+
+
+.lugar{
+    margin-left: 3px;
+}
+
+
+
+footer {
+    width: 100%;
+    background-color: black;
+    clear: both;
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+    padding: 10px;
+}
+
